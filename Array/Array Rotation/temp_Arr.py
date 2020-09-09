@@ -1,7 +1,7 @@
-n = 7 # no of elements
+n = 7 # no of elements in array
 d = 2 # no of rotation elements
 arr = [1,2,3,4,5,6,7] #LIST, NOt ACTUAL ARRAY
-temp = arr[:d] #store first d elements in temp
+temp = arr[:d] #store first d elements in temp 
 
 # print (temp)
 
